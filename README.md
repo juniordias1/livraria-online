@@ -1,9 +1,9 @@
 
 # Livraria Online
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Projeto de Livraria Online com objetivo de demonstrar conceitos de Mobile First.
 
-
+Acesse em: (https://juniordias1.github.io/livraria-online).
 
 
 ## Autores
